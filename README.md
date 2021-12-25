@@ -1,2 +1,18 @@
-# KeyLogger
-Esse script captura digitos do teclado do computador e salvar em um arquivo nomeado por voce!
+## INSTALANDO DEPENDENCIAS
+
+```
+pip install -r requerimentos.txt
+```
+## COMO EXECUTAR
+
+```LINUX```
+
+```
+python3 KeyLogger.py
+```
+
+```WINDOWS```
+
+```
+./KeyLogger.py
+```
