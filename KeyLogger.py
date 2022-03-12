@@ -9,7 +9,10 @@ os.system(limpar)
 
 banner = pg.figlet_format('KeyLogger')
 print(banner)
-print('[red]OBS:[/] [italic]Feche o terminal toda vez que finalizar o processo para salvar as teclas capituradas[/]\n')
+
+print(
+	'[red]OBS:[/] [italic]Feche o terminal toda vez que finalizar o processo para salvar as teclas capituradas[/]\n'
+	)
 
 qq = input('Digite o nome do arquivo: ')
 
